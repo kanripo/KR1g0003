@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 經典釋文
-#+DATE: 2015-09-23 09:40:50
+#+DATE: 2015-09-10 22:51:00.877477
+#+PROPERTY: ID KR1g0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 12
+#+PROPERTY: FILE SB01n0024-012經典釋文-卷第十二.
 <pb:KR1g0003_SBCK_012-1a>¶
 經典釋文卷第十二¶
 　　　　禮記音義之二(起第六/盡第十)¶
@@ -656,4 +660,3 @@
 (如字&KR0106;也/本亦作嘗)秣(音末/榖馬)稅亟(本又作極紀力反/急也一音其力反)沂(魚巾/反)鄂¶
 (五各/反)及紟(其䕃反/結也)朱綅(息廉反/又音侵)鎧飾(苦代/反)¶
 經典釋文卷第十二(經/四千七百二十/二字/注一万四千二百五十六字)¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 經典釋文
-#+DATE: 2015-09-23 09:40:50
+#+DATE: 2015-09-10 22:51:01.084510
+#+PROPERTY: ID KR1g0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 16
+#+PROPERTY: FILE SB01n0024-016經典釋文-卷第十六.
 <pb:KR1g0003_SBCK_016-1a>¶
 經典釋文卷第十六¶
 　　　春秋左氏音義之二(起第六/盡第十)¶
@@ -552,4 +556,3 @@
 經典釋文卷第十六(經四千四百九十六字/注九千四百八十三字)¶
 　　　　　　　　　後學　成德挍訂¶
 <pb:KR1g0003_SBCK_016-27a>¶
-

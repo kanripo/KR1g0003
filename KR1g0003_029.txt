@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 經典釋文
-#+DATE: 2015-09-23 09:40:50
+#+DATE: 2015-09-10 22:51:01.744940
+#+PROPERTY: ID KR1g0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 29
+#+PROPERTY: FILE SB01n0024-029經典釋文-卷第二十九.
 <pb:KR1g0003_SBCK_029-1a>¶
 經典釋文卷第二十九¶
 　　　　爾雅音義上¶
@@ -764,4 +768,3 @@
 (屬平原郡周時齊桓公塞九河并爲一自鬲津以北至徒駭二/百餘里渤海東莞成平平原河閒弓髙以東往往有其處焉)¶
 經典釋文卷第二十九¶
 <pb:KR1g0003_SBCK_029-33b>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 經典釋文
-#+DATE: 2015-09-23 09:40:50
+#+DATE: 2015-09-10 22:51:00.654106
+#+PROPERTY: ID KR1g0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB01n0024-008經典釋文-卷第八.
 <pb:KR1g0003_SBCK_008-1a>¶
 經典釋文卷第八¶
 　　　　周禮音義上(起天官盡/春官下)¶
@@ -808,4 +812,3 @@
 經典釋文卷第八¶
 　　　　　　　　　後學成德　挍訂¶
 <pb:KR1g0003_SBCK_008-36b>¶
-

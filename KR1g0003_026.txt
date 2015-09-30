@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 經典釋文
-#+DATE: 2015-09-23 09:40:50
+#+DATE: 2015-09-10 22:51:01.589705
+#+PROPERTY: ID KR1g0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 26
+#+PROPERTY: FILE SB01n0024-026經典釋文-卷第二十六.
 <pb:KR1g0003_SBCK_026-1a>¶
 經典釋文卷第二十六¶
 　　　莊子音義上(内篇/七)¶
@@ -566,4 +570,3 @@
 (崔云言不順自/然強開耳目也)¶
 經典釋文卷第二十六¶
 　　　　　　　　後學　成德　挍訂¶
-

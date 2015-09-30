@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 經典釋文
-#+DATE: 2015-09-23 09:40:50
+#+DATE: 2015-09-10 22:51:01.407795
+#+PROPERTY: ID KR1g0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 22
+#+PROPERTY: FILE SB01n0024-022經典釋文-卷第二十二.
 <pb:KR1g0003_SBCK_022-1a>¶
 拯(拯救/之拯/徒回反本/又作頽同)華衮(古本反衮冕/上公之服)之貶(彼檢/反)市¶
 朝(直遥/反)之撻(吐達/反)匿非(女力/反)麟感(本又作驎吕/辛反瑞獸也)來應¶
@@ -679,4 +683,3 @@
 經典釋文卷第二十二(經五千三百八十三字/注六千五百五字)¶
 <pb:KR1g0003_SBCK_022-30a>¶
 　　　　　　　　後學　成德挍訂¶
-

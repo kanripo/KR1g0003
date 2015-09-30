@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 經典釋文
-#+DATE: 2015-09-23 09:40:50
+#+DATE: 2015-09-10 22:51:00.441681
+#+PROPERTY: ID KR1g0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB01n0024-004經典釋文-卷第四.
 <pb:KR1g0003_SBCK_004-1a>¶
 經典釋文卷第四¶
 　　　尚書音義下(起第六/盡十三)¶
@@ -303,4 +307,3 @@
 經典釋文卷第四¶
 　　　　　　　　　　　後學成德　挍訂¶
 <pb:KR1g0003_SBCK_004-17b>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 經典釋文
-#+DATE: 2015-09-23 09:40:50
+#+DATE: 2015-09-10 22:51:01.940164
+#+PROPERTY: ID KR1g0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 33
+#+PROPERTY: FILE SB01n0025-033經典釋文校勘記-卷下.
 <pb:KR1g0003_SBCK_033-1a>¶
 　經典&KR0474;文校勘記卷下¶
 (一葉九行注)銳(段作說/十六行注)呼(乎/十八行注)陟(步/二)¶
@@ -274,4 +278,3 @@
 (注)大(段作人)知(如/十一行)第三十(下有終字)¶
 　經典釋文校勘記卷下終¶
 <pb:KR1g0003_SBCK_033-11a>¶
-

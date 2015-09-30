@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 經典釋文
-#+DATE: 2015-09-23 09:40:50
+#+DATE: 2015-09-10 22:51:01.133531
+#+PROPERTY: ID KR1g0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 17
+#+PROPERTY: FILE SB01n0024-017經典釋文-卷第十七.
 <pb:KR1g0003_SBCK_017-1a>¶
 經典釋文卷第十七¶
 　　　　春秋左氏音義之三(起第十一/盡第十五)¶
@@ -628,4 +632,3 @@
 苟(音者苟本/或作狗)娶於(七住/反)¶
 經典釋文卷第十七(經四千/九百/二字/注一萬一千八十六字)¶
 <pb:KR1g0003_SBCK_017-29a>¶
-

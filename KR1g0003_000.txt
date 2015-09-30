@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 經典釋文
-#+DATE: 2015-09-23 09:40:50
+#+DATE: 2015-09-10 22:51:00.261166
+#+PROPERTY: ID KR1g0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB01n0024-000經典釋文-補.
 <pb:KR1g0003_SBCK_000-1a>¶
 　　　　　　勘官登仕郎前守趙州柏郷縣主簿臣張　崇甫¶
 　　　　　　勘官登仕郎前守丹州司法叅軍臣李　守志¶
@@ -34,4 +38,3 @@
 　而寶之也崇禎十年歳次丁丑寫畢越十四年¶
 　上黨馮斑識其後¶
 <pb:KR1g0003_SBCK_000-3b>¶
-

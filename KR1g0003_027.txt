@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 經典釋文
-#+DATE: 2015-09-23 09:40:50
+#+DATE: 2015-09-10 22:51:01.640995
+#+PROPERTY: ID KR1g0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 27
+#+PROPERTY: FILE SB01n0024-027經典釋文-卷第二十七.
 <pb:KR1g0003_SBCK_027-1a>¶
 經典釋文卷第二十七¶
 　　　　莊子音義中(外篇/十五)¶
@@ -786,4 +790,3 @@
 (反)山林與(音餘/下同)而樂(音洛注/下皆同)能禦(魚吕/反)強(其丈/反)齊知之(才細反/又如字)¶
 經典釋文卷第二十七¶
 <pb:KR1g0003_SBCK_027-34b>¶
-

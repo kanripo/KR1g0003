@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 經典釋文
-#+DATE: 2015-09-23 09:40:50
+#+DATE: 2015-09-10 22:51:00.397407
+#+PROPERTY: ID KR1g0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB01n0024-003經典釋文-卷第三.
 <pb:KR1g0003_SBCK_003-1a>¶
 經典釋文卷第三¶
 　　　尚書音義上(起第一/盡第五)¶
@@ -396,4 +400,3 @@
 (馬本作淸/謂絜也)顧(音故徐/音鼓)¶
 經典釋文卷第三¶
 　　　　　　　　　後學　成德　挍訂¶
-

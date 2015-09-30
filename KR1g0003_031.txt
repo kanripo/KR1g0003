@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 經典釋文
-#+DATE: 2015-09-23 09:40:50
+#+DATE: 2015-09-10 22:51:01.853939
+#+PROPERTY: ID KR1g0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 31
+#+PROPERTY: FILE SB01n0025-031經典釋文校勘記-卷上.
 <pb:KR1g0003_SBCK_031-1a>¶
 　經典&KR0474;文校勘記卷上¶
 　　經典釋文明文淵閣有宋槧一部都八百六十葉乃海内孤本¶
@@ -366,4 +370,3 @@
 (注)熒(螢/三十五葉十九行注)紀(祀/廿一行注)音(于/三十八)¶
 (葉八行/&KR2846;/十一行)揲(摕)¶
 　典經釋文校勘記卷上終¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 經典釋文
-#+DATE: 2015-09-23 09:40:50
+#+DATE: 2015-09-10 22:51:01.186303
+#+PROPERTY: ID KR1g0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 18
+#+PROPERTY: FILE SB01n0024-018經典釋文-卷第十八.
 <pb:KR1g0003_SBCK_018-1a>¶
 經典釋文卷第十八¶
 　　　春秋左氏音義之四(起第十一/盡第二)¶
@@ -615,4 +619,3 @@
 夢(如字徐莫/公反注同)又喪(息浪/反)而嬀(九危/反)一个(古賀/反)¶
 經典釋文卷第十八(經四千八百三十二字/注一萬一千二百六字)¶
 　　　　　　　　　後學成德　挍訂¶
-

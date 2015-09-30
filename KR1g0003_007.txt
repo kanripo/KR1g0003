@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 經典釋文
-#+DATE: 2015-09-23 09:40:50
+#+DATE: 2015-09-10 22:51:00.593574
+#+PROPERTY: ID KR1g0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 7
+#+PROPERTY: FILE SB01n0024-007經典釋文-卷第七.
 <pb:KR1g0003_SBCK_007-1a>¶
 經典釋文卷第七¶
 　　　　毛詩音義下(起第十六/盡第二十)¶
@@ -776,4 +780,3 @@
 (陟金/反)掄材(魯門反擇也/沈音倫理也)¶
 經典釋文卷第七　後學　成德　挍訂¶
 <pb:KR1g0003_SBCK_007-36a>¶
-

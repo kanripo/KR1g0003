@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 經典釋文
-#+DATE: 2015-09-23 09:40:50
+#+DATE: 2015-09-10 22:51:01.799867
+#+PROPERTY: ID KR1g0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 30
+#+PROPERTY: FILE SB01n0024-030經典釋文-卷第三十.
 <pb:KR1g0003_SBCK_030-1a>¶
 經典釋文卷第三十¶
 　　　　爾雅音義下¶
@@ -674,4 +678,3 @@
 (字林同廣雅云殷虞晉獒楚獷/韓獹宋㹱皆良犬也㹱音鵲)鶤(音昆字或作鵾同/或音運又音輝)溝¶
 (古侯/反)¶
 經典釋文卷第三十¶
-

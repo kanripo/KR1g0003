@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 經典釋文
-#+DATE: 2015-09-23 09:40:50
+#+DATE: 2015-09-10 22:51:00.536846
+#+PROPERTY: ID KR1g0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 6
+#+PROPERTY: FILE SB01n0024-006經典釋文-卷第六.
 <pb:KR1g0003_SBCK_006-1a>¶
 經典釋文卷第六¶
 　　　　毛詩音義中(起第七盡/第十五)¶
@@ -831,4 +835,3 @@
 (扶東/反)有棧(士板反/役車也)輦者(一本作/輦車)¶
 經典釋文卷第六¶
 　　　　　　　　　後學　成德　挍訂¶
-

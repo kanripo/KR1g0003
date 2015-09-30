@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 經典釋文
-#+DATE: 2015-09-23 09:40:50
+#+DATE: 2015-09-10 22:51:01.548218
+#+PROPERTY: ID KR1g0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 25
+#+PROPERTY: FILE SB01n0024-025經典釋文-卷第二十五.
 <pb:KR1g0003_SBCK_025-1a>¶
 經典釋文卷第二十五¶
 　　　老子道經音義¶
@@ -159,4 +163,3 @@
 (爭&KR0242;/注同)¶
 經典釋文卷第二十五¶
 　　　　　　　　　　後學　成德　挍訂¶
-

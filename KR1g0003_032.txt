@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 經典釋文
-#+DATE: 2015-09-23 09:40:50
+#+DATE: 2015-09-10 22:51:01.898078
+#+PROPERTY: ID KR1g0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 32
+#+PROPERTY: FILE SB01n0025-032經典釋文校勘記-卷中.
 <pb:KR1g0003_SBCK_032-1a>¶
 　經典釋文校勘記卷中¶
 (二葉五行注)允(死/六行)恌(段作佻/八行注)瑒(段作揚/二十)¶
@@ -264,4 +268,3 @@
 <pb:KR1g0003_SBCK_032-10b>¶
 ¶
 　經典釋文校勘記卷中終¶
-

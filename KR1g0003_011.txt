@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 經典釋文
-#+DATE: 2015-09-23 09:40:50
+#+DATE: 2015-09-10 22:51:00.822535
+#+PROPERTY: ID KR1g0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 11
+#+PROPERTY: FILE SB01n0024-011經典釋文-卷第十一.
 <pb:KR1g0003_SBCK_011-1a>¶
 經典釋文卷第十一¶
 　　　　禮記音義之一(起第一/盡第五)¶
@@ -792,4 +796,3 @@
 　　　　　　　　　後學　成德　挍訂¶
 <pb:KR1g0003_SBCK_011-35a>¶
 <pb:KR1g0003_SBCK_011-36a>¶
-
